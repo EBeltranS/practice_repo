@@ -3,3 +3,7 @@ Esta es una segunda linea.
 
 quiero ver git diff
 quiero ver eso x2
+
+Esto esta hecho en branch b
+Esto esta hecho en branch b
+Esto esta hecho en branch b
