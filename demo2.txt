@@ -1,5 +1,2 @@
 Este es un segundo archivo.
 Esta es una segunda linea.
-
-quiero ver git diff
-quiero ver eso x2
